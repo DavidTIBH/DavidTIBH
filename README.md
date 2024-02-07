@@ -17,7 +17,7 @@
 
   
 
-  <img align="right" alt="zaeli-pic" height="150" style="border-radius:200px;" src="https://media.discordapp.net/attachments/444286041726255106/993269307607887982/photoapp.png">
+  <img align="right" alt="" height="150" style="border-radius:200px;" src="https://media.discordapp.net/attachments/444286041726255106/993269307607887982/photoapp.png">
 </div>
   
   ##
@@ -32,6 +32,6 @@
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bzaelii%7D/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BDavidTIBH%7D/count.svg" /></p> 
 <br>
 </div> 
